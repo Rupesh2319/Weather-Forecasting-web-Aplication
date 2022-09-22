@@ -1,0 +1,4 @@
+OpenWesther Api - https://api.openweathermap.org/data/2.5/weather?q=pune&units=metric&appid=51edcb2e3e05bf514ef394a5371c2d66
+(in celcicus)
+for icon - "https://openweathermap.org/img/wn/" + icon + ".png"
+5 day 3 hour forcast api - https://api.openweathermap.org/data/2.5/forecast?q=pune&units=metric&appid=51edcb2e3e05bf514ef394a5371c2d66
